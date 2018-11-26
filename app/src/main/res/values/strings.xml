@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiSense_v5</string>
+    <string name="TemperatureFinalString">25\u00B0</string>
+    <string name="ConnectWifiString">Connect WiFi</string>
+    <string name="DisconnectWifiString">Disconnect WiFi</string>
+    <string name="ConnectionStatusString">Not connected</string>
+    <string name="DataOutputString">Time 200 201\n</string>
+</resources>
